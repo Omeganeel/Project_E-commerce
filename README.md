@@ -60,6 +60,7 @@ Evaluation Metrics: Accuracy, F1-score, precision, and recall.
 Tool: Use Boto3 to track model performance and retrieve the best model based on evaluation metrics.
 Model Deployment
 Model Saving: After training, the XGBoost model was saved as a .pkl file in an S3 bucket.
+
 3️⃣ Machine Learning Pipeline (Model Training & Optimization)
 Task 1: Review Prediction (Classifying customer review ratings)
 Models Tested:
